@@ -2,7 +2,6 @@
 
 - 🔭 Procuro emprego na area de Engenheiro de Dados
 - 🌱 Estudo Desenvolvimento de Sistemas, com foco em Banco de Dados
-- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
