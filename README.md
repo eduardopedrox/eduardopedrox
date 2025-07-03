@@ -1,9 +1,8 @@
 ## Hello Word 👋
 
 - 🌱 Desenvolvimento de Sistemas, com foco em Banco de Dados
-
-<div align="center">
-  <a href="https://github.com/rafaballerini">
+/<div align="center">
+  <a href="https://github.com/eduardopedrox">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardopedrox&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardopedrox&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
