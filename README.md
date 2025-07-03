@@ -1,7 +1,6 @@
 ## Hello Word 👋
 
-- 🔭 Procuro emprego na area de Engenheiro de Dados
-- 🌱 Estudo Desenvolvimento de Sistemas, com foco em Banco de Dados
+- 🌱 Desenvolvimento de Sistemas, com foco em Banco de Dados
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
