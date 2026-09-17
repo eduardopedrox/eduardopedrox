@@ -1,6 +1,7 @@
 ## Hello Word 👋
 
-- 🌱 Desenvolvimento de Sistemas, com foco em Banco de Dados
+- 🌱 Desenvolvimento de Sistemas - Fianlizado em 2025
+- 👨‍💻 Tecnologia em Ciência de Dados - Pervisão de Término em dez/2028
 <div align="center">
   <a href="https://github.com/eduardopedrox">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardopedrox&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
